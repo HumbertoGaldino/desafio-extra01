@@ -34,7 +34,7 @@ Nesse desafio, foi recriado uma aplicação, a partir de um layout pronto no
 - Aplicando fontes customizadas;
 - Espaçamentos.
 
-- [Acesse o projeto finalizado, online](XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX)
+- [Acesse o projeto finalizado, online](https://humbertogaldino.github.io/desafio-extra01/)
 
 - [Assistir aulas do Discover](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
